@@ -1,5 +1,5 @@
 ![Muhammad Waqar's stats](https://github-readme-stats.vercel.app/api?username=muhammadwaqarqsol&show_icons=true&theme=light)
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="contribution.svg"></a>
 
 
 <div float="right"> 
